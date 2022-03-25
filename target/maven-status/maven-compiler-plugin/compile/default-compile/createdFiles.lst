@@ -1,0 +1,5 @@
+com\ostk\workexperience\twittermachine\service\Twitter.class
+com\ostk\workexperience\twittermachine\TwitterMachineApplication.class
+com\ostk\workexperience\twittermachine\service\ITwitter.class
+com\ostk\workexperience\twittermachine\controller\TwitterController.class
+com\ostk\workexperience\twittermachine\config\Config.class
